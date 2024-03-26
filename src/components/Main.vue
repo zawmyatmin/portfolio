@@ -21,7 +21,7 @@
                                 <h2>LinkedIn</h2>
                             </a>
                         </div>
-                        <div class="link">
+                        <div class="link" >
                             <a href="https://twitter.com/zawmyatminn_">
                                 <img src="../logos/x.jpg" alt="" class="logo">
                                 <h2>Twitter(X)</h2>
@@ -140,7 +140,8 @@ img {
 p{
     padding: 10px;
     font-size: 15px;
-    color: black;
+    font-weight: 1000;
+    color: rgb(109, 87, 87);
 }
 .footer{
     font-size: 15;
@@ -164,11 +165,13 @@ p{
 }
 h4{
     padding: 2px;
-    font-weight: 400;
-}
+    font-weight: 300;
+    color:rgb(195, 205, 185);
+}   
 h3{
+    color:rgb(171, 199, 222);
     padding: 2px;
-    font-weight: 500;
+    font-weight: 1000;
 }
 h2{
     font-size: 17px;
@@ -179,9 +182,9 @@ h1{
     margin:10px 5px;
     display: flex;
     justify-content: center;
-    color: black;
+    color: rgb(109, 87, 87);
     padding: 10px;
-    font-weight: 500;
+    font-weight: 800;
     font-size: 20px;
 }
 .studied{
