@@ -138,6 +138,7 @@ img {
     color: lightgray;
 }
 p{
+    text-align: justify;
     padding: 10px;
     font-size: 15px;
     font-weight: 1000;
