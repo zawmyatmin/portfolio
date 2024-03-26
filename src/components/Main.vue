@@ -186,7 +186,7 @@ h1{
     justify-content: center;
 }
 
-/* @media  (max-width: 500px) {
+@media  (max-width: 500px) {
     .mainContainer{
         width: 414px;
         height: 816px;
@@ -203,6 +203,6 @@ h1{
         flex-grow:1;    
     }
    
-} */
+}
 
 </style>
