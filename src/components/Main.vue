@@ -53,12 +53,16 @@
                 <div class="studied">
                     <img src="../logos/java.jpg" alt="" class="logoStudied">
                     <img src="../logos/python.jpg" alt="" class="logoStudied">
-                    <img src="../logos/javascript.jpg" alt="" class="logoStudied">
+                    <div>
+                        <img src="../logos/javascript.jpg" alt="" class="logoStudied">
+                        <img src="../logos/html.jpg" alt="" class="logoStudied">
+                    </div>
                 </div>
                 <div class="studied">
-                    <img src="../logos/html.jpg" alt="" class="logoStudied">
+                    <div>
                     <img src="../logos/css.jpg" alt="" class="logoStudied">
                     <img src="../logos/vue.jpg" alt="" class="logoStudied">
+                    </div>
                     <img src="../logos/mysql.jpg" alt="" class="logoStudied">
 
                 </div>
@@ -185,24 +189,4 @@ h1{
     flex-wrap: wrap;
     justify-content: center;
 }
-
-@media  (max-width: 500px) {
-    .mainContainer{
-        width: 414px;
-        height: 816px;
-    }
-    h4{
-        padding: 5px;
-    }
-}
-@media  (min-width: 1024px) {
-    #app{
-        flex-grow: 1;
-    }
-    .mainContainer{
-        flex-grow:1;    
-    }
-   
-}
-
 </style>
