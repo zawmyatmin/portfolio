@@ -11,7 +11,9 @@ export default{
 </script>
 
 <template>
-  <Main></Main>
+  <div>
+    <Main/>
+  </div>
 </template>
 
 <style scoped>
