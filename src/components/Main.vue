@@ -164,11 +164,13 @@ p{
     align-items: center;
 }
 h4{
+    text-align: center;
     padding: 2px;
     font-weight: 300;
     color:rgb(195, 205, 185);
 }   
 h3{
+    text-align: center;
     color:rgb(171, 199, 222);
     padding: 2px;
     font-weight: 1000;
