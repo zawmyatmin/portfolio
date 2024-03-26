@@ -5,10 +5,5 @@ export default defineConfig({
   base:'/partfolio/',
   plugins: [
     vue(),
-  ],
-  resolve: {
-    alias: {
-      '@': '/src'
-    }
-  }
-})
+  ]
+});
