@@ -42,11 +42,9 @@
                 <div class="aboutMe">
                     <h1>About Me</h1>
                     <p>
-                        Hi! I'm Zaw Myat Min, a junior web developer.
-                        I make web applications using HTML, CSS, JS, Vue.js (for how they look),
-                        and Java (Spring) (for what they do).
-                        I store data in MySQL and make designs responsive with Bootstrap.
-                        Let's work on something awesome together!
+                        Hey! I'm Zaw Myat Min, a junior web developer. I work with HTML, CSS, JS, Vue.js, Java (Spring),
+                        and MySQL to build web applications. I also make sure designs are responsive using Bootstrap.
+                        Let's collaborate on exciting projects and grow together in our skills!
                     </p>
                 </div>
                 <h1>Technologies Studied</h1>
