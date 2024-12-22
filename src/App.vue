@@ -1,21 +1,18 @@
 <script>
-import Main from './components/Main.vue'
+import Main from "./components/Main.vue";
 
-export default{
-  name: 'App' ,
+export default {
+  name: "App",
   components: {
-    Main
-  }
-}
-
+    Main,
+  },
+};
 </script>
 
 <template>
   <div>
-    <Main/>
+    <Main />
   </div>
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
