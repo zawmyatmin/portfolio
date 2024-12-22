@@ -20,7 +20,7 @@
       </div>
       <div class="containerTwo">
         <div class="aboutMe">
-          <v-chip>About Me</v-chip>
+          <h1>About Me</h1>
           <p>{{ aboutMe }}</p>
         </div>
         <h1>Technologies Studied</h1>
