@@ -27,7 +27,7 @@
           <img
             :src="profile.image"
             alt="Profile Picture"
-            style="margin: 1.25rem; width: 50%; border-radius: 50%"
+            style="margin: 1.25rem; width: 50%"
           />
           <h3 style="padding: 0 1rem 0 1rem; color: rgb(171, 199, 222)">
             {{ profile.name }}
@@ -141,7 +141,7 @@
   </div>
 </template>
 <script>
-import pfImage from "../assets/pf.jpg";
+import pfImage from "../assets/zmm_logo.jpg";
 import gmailLogo from "../logos/gmail.jpg";
 import linkedinLogo from "../logos/linkedin.jpg";
 import twitterLogo from "../logos/x.jpg";
